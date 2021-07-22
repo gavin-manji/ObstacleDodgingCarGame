@@ -190,24 +190,6 @@ def carGame_loop():
     # Score of the player
     playerScore = 0
 
-    # obstacle2Width = 92
-    # obstacle2Height = 207
-    #
-    # obstacle3Width = 93
-    # obstacle3Height = 183
-    #
-    # obstacle4Width = 90
-    # obstacle4Height = 184
-    #
-    # obstacle5Width = 91
-    # obstacle5Height = 172
-    #
-    # obstacle6Width = 101
-    # obstacle6Height = 254
-    #
-    # obstacle7Width = 87
-    # obstacle7Height = 174
-
     knocked = False
     while not knocked:
 
